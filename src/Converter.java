@@ -17,7 +17,6 @@ public class Converter extends GUI{
         }
 
         String output = String.valueOf(num);
-        System.out.println(output);
         return output;
     }
 }
